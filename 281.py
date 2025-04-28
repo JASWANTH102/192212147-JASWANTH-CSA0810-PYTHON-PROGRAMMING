@@ -1,0 +1,5 @@
+print(3==5)
+print(3==3)
+print(False+True)
+print(False*True)
+print(10*True)
